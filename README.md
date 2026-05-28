@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/sarkarpragati/sql-leetcode-solutions/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/sarkarpragati/sql-leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/sarkarpragati/sql-leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sarkarpragati/sql-leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
